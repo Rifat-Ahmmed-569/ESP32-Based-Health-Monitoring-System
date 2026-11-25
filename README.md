@@ -3,6 +3,10 @@
 An ESP32-based health monitoring system designed to monitor physiological parameters using the MAX30102, BMP280, and GSR sensors.
 
 The system collects sensor data and provides a foundation for real-time health monitoring, physiological data analysis, and future IoT integration.
+---
+<img width="1357" height="628" alt="image" src="https://github.com/user-attachments/assets/8ccd251f-0da7-4c6e-ae6d-308f0e37c406" />
+
+---
 
 ## Project Overview
 
